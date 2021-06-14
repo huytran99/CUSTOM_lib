@@ -1,19 +1,19 @@
 {
 	"name": "xBotArduino",
-	"description": "Create an ESP32 or ESP8266 OpenCanary Honeypot",
+	"description": "Create an xBot project",
 	"keywords": "xBot, xBotArduino",
 	"authors":
 		{
 			"name": "AITT",
 			"email": "user@gmail.com",
-			"url": "https://github.com/AITT-VN"
+			"url": "https://github.com/huytran99"
 		},
 	"repository":
 	{
 		"type": "git",
 		"url": "https://github.com/huytran99/CUSTOM_lib"
 	},
-	"url": "https://github.com/AITT-VN",
+	"url": "https://github.com/huytran99",
 	"frameworks": "Arduino",
 	"platforms": "*"
 }
